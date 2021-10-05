@@ -35,3 +35,11 @@
 | 金山城市沙滩 | 金山区沪杭公路 | :x: |
 | 金山滨海公园 | 金山区沪杭公路 | :x: |
 | 海塘公园 | 奉贤区奉柘公路 | :white_check_mark: |
+| 三甲港 | 浦东新区 | :white_check_mark: |
+| 浏河阅兵台 | 太仓市浏河镇 | :white_check_mark: |
+| 沙溪古镇 | 太仓市白云中路 | :white_check_mark: |
+| 太浦河大莲湖 | 吴江区 | :white_check_mark: |
+| 淀山湖 | 昆山市 | :white_check_mark: |
+| 阳澄湖 | 吴中区 | :white_check_mark: |
+| 西塘古镇 | 嘉兴市嘉善县西塘镇 | :white_check_mark: |
+| 虞山 | 常熟市 | :white_check_mark: |

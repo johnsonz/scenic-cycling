@@ -43,3 +43,4 @@
 | 阳澄湖 | 吴中区 | :white_check_mark: |
 | 西塘古镇 | 嘉兴市嘉善县西塘镇 | :white_check_mark: |
 | 虞山 | 常熟市 | :white_check_mark: |
+| 青溪古镇 | 上海奉贤区 | :white_check_mark: |
